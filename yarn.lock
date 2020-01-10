@@ -3450,10 +3450,10 @@ dot-case@^2.1.0:
   dependencies:
     no-case "^2.2.0"
 
-dot-prop-immutable@^1.4.0:
-  version "1.5.0"
-  resolved "https://registry.yarnpkg.com/dot-prop-immutable/-/dot-prop-immutable-1.5.0.tgz#412550508682cc2037a5e2f174734193c12a5fdd"
-  integrity sha512-YcnAEqxtJSect/W3taJeMkKhDrL7NzzvgKlJ515m5aGxJBJpzetXf0wZbGapdrBNwAItWvb4sOn+jX0RBYYM1g==
+dot-prop-immutable@^2.0.0:
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/dot-prop-immutable/-/dot-prop-immutable-2.0.0.tgz#2a0cf3310e9c9c2ed164967db13710937aaf3239"
+  integrity sha512-spi9t1ZKsNtrqYLxpNzW27s8RKnajBAIUrvV3Lhvtu57LQU6Jmoo4yrm+TVQ2Vv34mDe4aoP1FXck5HSCF0Bsg==
 
 dotenv-cli@^3.0.0:
   version "3.0.0"
